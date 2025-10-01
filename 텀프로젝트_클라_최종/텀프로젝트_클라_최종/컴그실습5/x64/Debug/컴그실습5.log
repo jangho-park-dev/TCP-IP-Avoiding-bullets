@@ -1,0 +1,22 @@
+﻿  Client.cpp
+d:\넷겜플테스트용폴더\networkgame브랜치_11_22\컴그실습5\client.cpp(104): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  NetworkGame.cpp
+  코드를 생성하고 있습니다...
+Client.obj : error LNK2019: __imp_glutBitmapCharacter 외부 기호(참조 위치: "void __cdecl Textprint(int,int,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?Textprint@@YAXHHHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) 함수)에서 확인하지 못했습니다.
+NetworkGame.obj : error LNK2019: __imp_glutInitWindowPosition 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+NetworkGame.obj : error LNK2019: __imp_glutInitWindowSize 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+NetworkGame.obj : error LNK2019: __imp_glutInitDisplayMode 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+NetworkGame.obj : error LNK2019: __imp_glutMainLoop 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+NetworkGame.obj : error LNK2019: __imp_glutPostRedisplay 외부 기호(참조 위치: "void __cdecl TimerFunction(int)" (?TimerFunction@@YAXH@Z) 함수)에서 확인하지 못했습니다.
+NetworkGame.obj : error LNK2019: __imp_glutSwapBuffers 외부 기호(참조 위치: "void __cdecl render(void)" (?render@@YAXXZ) 함수)에서 확인하지 못했습니다.
+NetworkGame.obj : error LNK2019: __imp_glutTimerFunc 외부 기호(참조 위치: "void __cdecl TimerFunction(int)" (?TimerFunction@@YAXH@Z) 함수)에서 확인하지 못했습니다.
+NetworkGame.obj : error LNK2019: __imp_glutKeyboardFunc 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+NetworkGame.obj : error LNK2019: __imp_glutReshapeFunc 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+NetworkGame.obj : error LNK2019: __imp_glutDisplayFunc 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+NetworkGame.obj : error LNK2019: __imp_glutMotionFunc 외부 기호(참조 위치: main 함수)에서 확인하지 못했습니다.
+NetworkGame.obj : error LNK2019: __imp_glutSolidCube 외부 기호(참조 위치: "void __cdecl render(void)" (?render@@YAXXZ) 함수)에서 확인하지 못했습니다.
+NetworkGame.obj : error LNK2019: __imp_glutSolidSphere 외부 기호(참조 위치: "void __cdecl render(void)" (?render@@YAXXZ) 함수)에서 확인하지 못했습니다.
+NetworkGame.obj : error LNK2019: __imp___glutInitWithExit 외부 기호(참조 위치: glutInit_ATEXIT_HACK 함수)에서 확인하지 못했습니다.
+NetworkGame.obj : error LNK2019: __imp___glutCreateWindowWithExit 외부 기호(참조 위치: glutCreateWindow_ATEXIT_HACK 함수)에서 확인하지 못했습니다.
+.\lib\freeglut.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+D:\넷겜플테스트용폴더\NetWorkGame브랜치_11_22\x64\Debug\NetworkGame.exe : fatal error LNK1120: 16개의 확인할 수 없는 외부 참조입니다.

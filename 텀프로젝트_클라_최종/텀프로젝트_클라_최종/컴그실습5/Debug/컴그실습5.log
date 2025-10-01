@@ -1,0 +1,2 @@
+﻿E:\VS2017\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(컴그실습5.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  컴그실습5.vcxproj -> E:\자료\3_2학기\넷겜플\텀프로젝트_클라_최종\텀프로젝트_클라_최종\Debug\NetworkGame.exe

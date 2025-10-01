@@ -1,0 +1,6 @@
+﻿  main.cpp
+e:\자료\3_2학기\넷겜플\텀프로젝트_서버_최종\텀프로젝트_서버_최종\main.cpp(25): warning C4101: 'retval' :참조되지 않은 지역 변수입니다.
+  Server.cpp
+  코드를 생성하고 있습니다...
+  LINK : E:\자료\3_2학기\넷겜플\텀프로젝트_서버_최종\텀프로젝트_서버_최종\Debug\MultithreadTCPServer.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  MultithreadTCPServer.vcxproj -> E:\자료\3_2학기\넷겜플\텀프로젝트_서버_최종\텀프로젝트_서버_최종\Debug\MultithreadTCPServer.exe

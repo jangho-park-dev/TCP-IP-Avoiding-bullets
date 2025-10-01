@@ -1,0 +1,7 @@
+﻿  main.cpp
+d:\넷겜플\넷겜플테스트용폴더\multithreadtcpserver_11_22\main.cpp(25): warning C4101: 'retval' :참조되지 않은 지역 변수입니다.
+  Server.cpp
+  코드를 생성하고 있습니다.
+  All 68 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  MultithreadTCPServer.vcxproj -> D:\넷겜플\넷겜플테스트용폴더\MultithreadTCPServer_11_22\Release\MultithreadTCPServer.exe
